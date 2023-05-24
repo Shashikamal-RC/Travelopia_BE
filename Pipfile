@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 djangorestframework-queryfields = "*"
 django-cors-headers = "*"
+django-environ = "*"
+mysqlclient = "*"
 
 [dev-packages]
 
